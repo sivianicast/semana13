@@ -17,7 +17,7 @@ import static org.junit.Assert.*;
  *
  * @author Jherom Chacon
  */
-public class BaseDatosIT {
+public class BaseDatosIT {// base datos
     
     public BaseDatosIT() {
     }

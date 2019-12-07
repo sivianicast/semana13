@@ -16,7 +16,7 @@ import java.sql.Statement;
  *
  * @author Jherom Chacon
  */
-public class BaseDatos<Entidad> {
+public class BaseDatos<Entidad> {//entidas
     private static String message;
     private static final String DRIVER = "com.mysql.jdbc.Driver";
     private static final String PATH = "jdbc:mysql://localhost:3306/";
